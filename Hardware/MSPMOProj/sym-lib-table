@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MSPMOTutSchemSymLib") (type "KiCad") (uri "C:/Users/jonat/kicadstuff/MSPMOTutSchemSymLib.kicad_sym") (options "") (descr ""))
+	(lib (name "MSPMOLib") (type "KiCad") (uri "C:/Users/jonat/kicadstuff/MSPMOLib.kicad_sym") (options "") (descr ""))
+	(lib (name "pmopmopmo") (type "KiCad") (uri "${KIPRJMOD}/pmopmopmo.kicad_sym") (options "") (descr ""))
+	(lib (name "MSPMOLibTestTut") (type "KiCad") (uri "C:/Users/jonat/kicadstuff/MSPMOLibTestTut.kicad_sym") (options "") (descr ""))
+	(lib (name "CustomCap") (type "KiCad") (uri "C:/Users/jonat/kicadstuff/CustomCap.kicad_sym") (options "") (descr ""))
+)
